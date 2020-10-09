@@ -79,32 +79,34 @@ margin-right: 30px;
 .main{
     margin-top: 80px;
 }
-.license-header{
-  width: 1000px;
-  height: 150px;
-  color: white;
-  background: linear-gradient(to bottom left, white );
-   margin-left: 180px;
-   margin-right: 20px;
-   margin-top: 90px;
-   border: 1px solid black;
-    -moz-border-radius: 10px;
-    -webkit-border-radius: 10px;
-    -ms-border-radius: 10px;
-    -o-border-radius: 10px;
-    border-radius: 10px;
-    color: black;
+.design_main{
+  margin-top: 100px;
+  text-align: center;
 }
-.license-icon{
-  margin-top: 15px;
-}
-.more-info{
-  margin-bottom: 200px;
-}
-.okay{
-  margin-left: 180px;
+.input-wrapper{
   margin-top: 30px;
 }
-.not-okay{
-  margin-top: 30px;
+.btn-pink{
+    max-width: 380px;
+    margin: 15px auto 0;
+    padding: 15px 15px;
+    font-size: 16px;
+    background: linear-gradient(90deg, #F073C8 0%, #FF6A95 99%);
+    border-radius: 5px;
+    font-size: 14px;
+    padding: 11px 15px;
+    font-weight: bold;
+    width: 100%;
+    text-align: center;
+    color: #ffffff;
+    box-shadow: 0 12px 12px -11px rgba(240, 115, 200, 0.73);
+    background-size: 200% auto;
+}
+.border-input{
+    border: 1px solid #EBEBF2;
+    border-radius: 5px;
+    padding: 11px 15px;
+    background-color: #ffffff;
+    width: 400px;
+    padding: 15px 15px;
 }
